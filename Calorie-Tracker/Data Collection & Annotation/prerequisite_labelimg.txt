@@ -1,0 +1,7 @@
+1. Open the anaconda prompt and create a new environment as   conda create -n label python==3.6.5
+2. Activate new environment 	conda activate label
+3. pip install lxml
+4. pip install sip
+5. pip install pyqt5
+6. pip install labelImg
+7. labelImg

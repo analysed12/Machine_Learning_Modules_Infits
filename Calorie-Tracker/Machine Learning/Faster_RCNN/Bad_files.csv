@@ -1,0 +1,420 @@
+train_filename,test_filename
+Apricot 47.jpg,Bagel 12.jpg
+Apricot 47.xml,Bagel 12.xml
+Asparagus 1.jpg,Bagel 15.jpg
+Asparagus 1.xml,Bagel 15.xml
+Asparagus 33.jpg,Bagel 17.jpg
+Asparagus 33.xml,Bagel 17.xml
+Asparagus 39.jpg,Bagel 2.jpg
+Asparagus 39.xml,Bagel 2.xml
+Asparagus 7.jpg,Bagel 24.jpg
+Asparagus 7.xml,Bagel 24.xml
+Bagel 1.jpg,Bagel 38.jpg
+Bagel 1.xml,Bagel 38.xml
+Bagel 10.jpg,Bagel 44.jpg
+Bagel 10.xml,Bagel 44.xml
+Bagel 11.jpg,Bagel 45.jpg
+Bagel 11.xml,Bagel 45.xml
+Bagel 13.jpg,Bagel 50.jpg
+Bagel 13.xml,Bagel 50.xml
+Bagel 14.jpg,Bagel 52.jpg
+Bagel 14.xml,Bagel 52.xml
+Bagel 16.jpg,Bagel 55.jpg
+Bagel 16.xml,Bagel 55.xml
+Bagel 18.jpg,Bagel 7.jpg
+Bagel 18.xml,Bagel 7.xml
+Bagel 19.jpg,Corn 5.jpg
+Bagel 19.xml,Corn 5.xml
+Bagel 20.jpg,Dates 14.jpg
+Bagel 20.xml,Dates 14.xml
+Bagel 21.jpg,Dates 2.jpg
+Bagel 21.xml,Dates 2.xml
+Bagel 22.jpg,Dates 22.jpg
+Bagel 22.xml,Dates 22.xml
+Bagel 23.jpg,Dates 25.jpg
+Bagel 23.xml,Dates 25.xml
+Bagel 25.jpg,Dates 31.jpg
+Bagel 25.xml,Dates 31.xml
+Bagel 26.jpg,Dates 36.jpg
+Bagel 26.xml,Dates 36.xml
+Bagel 27.jpg,Dates 38.jpg
+Bagel 27.xml,Dates 38.xml
+Bagel 28.jpg,Dates 44.jpg
+Bagel 28.xml,Dates 44.xml
+Bagel 29.jpg,Dates 45.jpg
+Bagel 29.xml,Dates 45.xml
+Bagel 3.jpg,Dates 47.jpg
+Bagel 3.xml,Dates 47.xml
+Bagel 30.jpg,Dates 55.jpg
+Bagel 30.xml,Dates 55.xml
+Bagel 31.jpg,Dates 6.jpg
+Bagel 31.xml,Dates 6.xml
+Bagel 32.jpg,Flax Seeds 10.jpg
+Bagel 32.xml,Flax Seeds 10.xml
+Bagel 33.jpg,Flax Seeds 16.jpg
+Bagel 33.xml,Flax Seeds 16.xml
+Bagel 34.jpg,Flax Seeds 20.jpg
+Bagel 34.xml,Flax Seeds 20.xml
+Bagel 35.jpg,Flax Seeds 25.jpg
+Bagel 35.xml,Flax Seeds 25.xml
+Bagel 36.jpg,Flax Seeds 36.jpg
+Bagel 36.xml,Flax Seeds 36.xml
+Bagel 37.jpg,Flax Seeds 37.jpg
+Bagel 37.xml,Flax Seeds 37.xml
+Bagel 39.jpg,Flax Seeds 38.jpg
+Bagel 39.xml,Flax Seeds 38.xml
+Bagel 4.jpg,Flax Seeds 4.jpg
+Bagel 4.xml,Flax Seeds 4.xml
+Bagel 40.jpg,Flax Seeds 45.jpg
+Bagel 40.xml,Flax Seeds 45.xml
+Bagel 41.jpg,Kidney Beans Curry 26.jpg
+Bagel 41.xml,Kidney Beans Curry 26.xml
+Bagel 42.jpg,Milk 55.jpg
+Bagel 42.xml,Milk 55.xml
+Bagel 43.jpg,Rasmalai 26.jpg
+Bagel 43.xml,Rasmalai 26.xml
+Bagel 46.jpg,Rasmalai 33.jpg
+Bagel 46.xml,Rasmalai 33.xml
+Bagel 47.jpg,Spaghetti 10.jpg
+Bagel 47.xml,Spaghetti 10.xml
+Bagel 48.jpg,Spaghetti 13.jpg
+Bagel 48.xml,Spaghetti 13.xml
+Bagel 49.jpg,Spaghetti 18.jpg
+Bagel 49.xml,Spaghetti 18.xml
+Bagel 5.jpg,Spaghetti 22.jpg
+Bagel 5.xml,Spaghetti 22.xml
+Bagel 51.jpg,Spaghetti 37.jpg
+Bagel 51.xml,Spaghetti 37.xml
+Bagel 53.jpg,Spaghetti 4.jpg
+Bagel 53.xml,Spaghetti 4.xml
+Bagel 54.jpg,Spaghetti 43.jpg
+Bagel 54.xml,Spaghetti 43.xml
+Bagel 56.jpg,Spaghetti 48.jpg
+Bagel 56.xml,Spaghetti 48.xml
+Bagel 57.jpg,Spaghetti 50.jpg
+Bagel 57.xml,Spaghetti 50.xml
+Bagel 6.jpg,Spaghetti 52.jpg
+Bagel 6.xml,Spaghetti 52.xml
+Bagel 8.jpg,Trouts 6.jpg
+Bagel 8.xml,Trouts 6.xml
+Bagel 9.jpg,Trouts 8.jpg
+Bagel 9.xml,Trouts 8.xml
+Butter Chicken 98.jpg,Kafuli 6.jpeg
+Butter Chicken 98.xml,Kafuli 6.xml
+Corn 10.jpg,Namak Paare 4.jpg
+Corn 10.xml,Namak Paare 4.xml
+Corn 11.jpg,Namak Paare 81.jpg
+Corn 11.xml,Namak Paare 81.xml
+Corn 3.jpg,
+Corn 3.xml,
+Corn 56.jpg,
+Corn 56.xml,
+Corn 58.jpg,
+Corn 58.xml,
+Corn 59.jpg,
+Corn 59.xml,
+Corn 6.jpg,
+Corn 6.xml,
+Corn 7.jpg,
+Corn 7.xml,
+Corn 9.jpg,
+Corn 9.xml,
+Dates 1.jpg,
+Dates 1.xml,
+Dates 10.jpg,
+Dates 10.xml,
+Dates 11.jpg,
+Dates 11.xml,
+Dates 12.jpg,
+Dates 12.xml,
+Dates 13.jpg,
+Dates 13.xml,
+Dates 15.jpg,
+Dates 15.xml,
+Dates 16.jpg,
+Dates 16.xml,
+Dates 17.jpg,
+Dates 17.xml,
+Dates 18.jpg,
+Dates 18.xml,
+Dates 19.jpg,
+Dates 19.xml,
+Dates 20.jpg,
+Dates 20.xml,
+Dates 21.jpg,
+Dates 21.xml,
+Dates 23.jpg,
+Dates 23.xml,
+Dates 24.jpg,
+Dates 24.xml,
+Dates 26.jpg,
+Dates 26.xml,
+Dates 27.jpg,
+Dates 27.xml,
+Dates 28.jpg,
+Dates 28.xml,
+Dates 29.jpg,
+Dates 29.xml,
+Dates 3.jpg,
+Dates 3.xml,
+Dates 30.jpg,
+Dates 30.xml,
+Dates 32.jpg,
+Dates 32.xml,
+Dates 33.jpg,
+Dates 33.xml,
+Dates 35.jpg,
+Dates 35.xml,
+Dates 37.jpg,
+Dates 37.xml,
+Dates 39.jpg,
+Dates 39.xml,
+Dates 4.jpg,
+Dates 4.xml,
+Dates 40.jpg,
+Dates 40.xml,
+Dates 41.jpg,
+Dates 41.xml,
+Dates 42.jpg,
+Dates 42.xml,
+Dates 43.jpg,
+Dates 43.xml,
+Dates 46.jpg,
+Dates 46.xml,
+Dates 48.jpg,
+Dates 48.xml,
+Dates 49.jpg,
+Dates 49.xml,
+Dates 5.jpg,
+Dates 5.xml,
+Dates 50.jpg,
+Dates 50.xml,
+Dates 51.jpg,
+Dates 51.xml,
+Dates 52.jpg,
+Dates 52.xml,
+Dates 53.jpg,
+Dates 53.xml,
+Dates 54.jpg,
+Dates 54.xml,
+Dates 56.jpg,
+Dates 56.xml,
+Dates 57.jpg,
+Dates 57.xml,
+Dates 7.jpg,
+Dates 7.xml,
+Dates 8.jpg,
+Dates 8.xml,
+Dates 9.jpg,
+Dates 9.xml,
+desktop.ini,
+Flax Seeds 11.jpg,
+Flax Seeds 11.xml,
+Flax Seeds 12.jpg,
+Flax Seeds 12.xml,
+Flax Seeds 13.jpg,
+Flax Seeds 13.xml,
+Flax Seeds 14.jpg,
+Flax Seeds 14.xml,
+Flax Seeds 15.jpg,
+Flax Seeds 15.xml,
+Flax Seeds 17.jpg,
+Flax Seeds 17.xml,
+Flax Seeds 18.jpg,
+Flax Seeds 18.xml,
+Flax Seeds 19.jpg,
+Flax Seeds 19.xml,
+Flax Seeds 2.jpg,
+Flax Seeds 2.xml,
+Flax Seeds 22.jpg,
+Flax Seeds 22.xml,
+Flax Seeds 23.jpg,
+Flax Seeds 23.xml,
+Flax Seeds 24.jpg,
+Flax Seeds 24.xml,
+Flax Seeds 26.jpg,
+Flax Seeds 26.xml,
+Flax Seeds 27.jpg,
+Flax Seeds 27.xml,
+Flax Seeds 28.jpg,
+Flax Seeds 28.xml,
+Flax Seeds 29.jpg,
+Flax Seeds 29.xml,
+Flax Seeds 3.jpg,
+Flax Seeds 3.xml,
+Flax Seeds 30.jpg,
+Flax Seeds 30.xml,
+Flax Seeds 32.jpg,
+Flax Seeds 32.xml,
+Flax Seeds 33.jpg,
+Flax Seeds 33.xml,
+Flax Seeds 35.jpg,
+Flax Seeds 35.xml,
+Flax Seeds 39.jpg,
+Flax Seeds 39.xml,
+Flax Seeds 40.jpg,
+Flax Seeds 40.xml,
+Flax Seeds 41.jpg,
+Flax Seeds 41.xml,
+Flax Seeds 42.jpg,
+Flax Seeds 42.xml,
+Flax Seeds 43.jpg,
+Flax Seeds 43.xml,
+Flax Seeds 44.jpg,
+Flax Seeds 44.xml,
+Flax Seeds 46.jpg,
+Flax Seeds 46.xml,
+Flax Seeds 5.jpg,
+Flax Seeds 5.xml,
+Flax Seeds 6.jpg,
+Flax Seeds 6.xml,
+Flax Seeds 7.jpg,
+Flax Seeds 7.xml,
+Flax Seeds 9.jpg,
+Flax Seeds 9.xml,
+Friedchicken 34.jpg,
+Friedchicken 34.xml,
+Jalebi 1.jpg,
+Jalebi 1.xml,
+Lemon Chicken 10.jpg,
+Lemon Chicken 10.xml,
+Rasgulla 21.jpg,
+Rasgulla 21.xml,
+Rasmalai 10.jpg,
+Rasmalai 10.xml,
+Rasmalai 14.jpg,
+Rasmalai 14.xml,
+Rasmalai 15.jpg,
+Rasmalai 15.xml,
+Rasmalai 16.jpg,
+Rasmalai 16.xml,
+Rasmalai 17.jpg,
+Rasmalai 17.xml,
+Rasmalai 18.jpg,
+Rasmalai 18.xml,
+Rasmalai 19.jpg,
+Rasmalai 19.xml,
+Rasmalai 20.jpg,
+Rasmalai 20.xml,
+Rasmalai 22.jpg,
+Rasmalai 22.xml,
+Rasmalai 24.jpg,
+Rasmalai 24.xml,
+Rasmalai 25.jpg,
+Rasmalai 25.xml,
+Rasmalai 27.jpg,
+Rasmalai 27.xml,
+Rasmalai 29.jpg,
+Rasmalai 29.xml,
+Rasmalai 30.jpg,
+Rasmalai 30.xml,
+Rasmalai 31.jpg,
+Rasmalai 31.xml,
+Rasmalai 32.jpg,
+Rasmalai 32.xml,
+Salmon 30.jpg,
+Salmon 30.xml,
+Sardines 28.jpg,
+Sardines 28.xml,
+Shrimp 34.jpg,
+Shrimp 34.xml,
+Spaghetti 11.jpg,
+Spaghetti 11.xml,
+Spaghetti 12.jpg,
+Spaghetti 12.xml,
+Spaghetti 14.jpg,
+Spaghetti 14.xml,
+Spaghetti 15.jpg,
+Spaghetti 15.xml,
+Spaghetti 16.jpg,
+Spaghetti 16.xml,
+Spaghetti 17.jpg,
+Spaghetti 17.xml,
+Spaghetti 19.jpg,
+Spaghetti 19.xml,
+Spaghetti 2.jpg,
+Spaghetti 2.xml,
+Spaghetti 20.jpg,
+Spaghetti 20.xml,
+Spaghetti 23.jpg,
+Spaghetti 23.xml,
+Spaghetti 24.jpg,
+Spaghetti 24.xml,
+Spaghetti 25.jpg,
+Spaghetti 25.xml,
+Spaghetti 26.jpg,
+Spaghetti 26.xml,
+Spaghetti 27.jpg,
+Spaghetti 27.xml,
+Spaghetti 28.jpg,
+Spaghetti 28.xml,
+Spaghetti 29.jpg,
+Spaghetti 29.xml,
+Spaghetti 3.jpg,
+Spaghetti 3.xml,
+Spaghetti 30.jpg,
+Spaghetti 30.xml,
+Spaghetti 31.jpg,
+Spaghetti 31.xml,
+Spaghetti 32.jpg,
+Spaghetti 32.xml,
+Spaghetti 33.jpg,
+Spaghetti 33.xml,
+Spaghetti 36.jpg,
+Spaghetti 36.xml,
+Spaghetti 38.jpg,
+Spaghetti 38.xml,
+Spaghetti 40.jpg,
+Spaghetti 40.xml,
+Spaghetti 41.jpg,
+Spaghetti 41.xml,
+Spaghetti 44.jpg,
+Spaghetti 44.xml,
+Spaghetti 45.jpg,
+Spaghetti 45.xml,
+Spaghetti 46.jpg,
+Spaghetti 46.xml,
+Spaghetti 47.jpg,
+Spaghetti 47.xml,
+Spaghetti 49.jpg,
+Spaghetti 49.xml,
+Spaghetti 5.jpg,
+Spaghetti 5.xml,
+Spaghetti 51.jpg,
+Spaghetti 51.xml,
+Spaghetti 6.jpg,
+Spaghetti 6.xml,
+Spaghetti 7.jpg,
+Spaghetti 7.xml,
+Spaghetti 9.jpg,
+Spaghetti 9.xml,
+Trouts 1.jpg,
+Trouts 1.xml,
+Trouts 12.jpg,
+Trouts 12.xml,
+Trouts 21.jpg,
+Trouts 21.xml,
+Trouts 22.jpg,
+Trouts 22.xml,
+Trouts 32.jpg,
+Trouts 32.xml,
+Chenna 35.jpg,
+Chenna 35.xml,
+Ela Ada 11.jpg,
+Ela Ada 11.xml,
+Gujiya 28.jpg,
+Gujiya 28.xml,
+Kadai Mashroom 57.jpg,
+Kadai Mashroom 57.xml,
+Kaju Mathari 40.jpg,
+Kaju Mathari 40.xml,
+Kaju Mathari 45.jpg,
+Kaju Mathari 45.xml,
+Kaju Mathari 52.jpg,
+Kaju Mathari 52.xml,
+Namak Paare 71.jpg,
+Namak Paare 71.xml,
+Singhara Poori 1.jpg,
+Singhara Poori 1.xml,
+Strawberry Icecream 8.jpg,
+Strawberry Icecream 8.xml,
